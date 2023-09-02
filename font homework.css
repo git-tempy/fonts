@@ -1,0 +1,105 @@
+
+.font {
+    display: flex;
+    width: 870px;
+    
+    
+   
+    
+}
+.top {
+    display: flex;
+   
+    width: 870px;
+}
+.fa-solid.fa-laptop {
+    margin-top: 20px;
+    width: 40px;
+    padding: 10px;
+    
+   
+    
+}
+img{
+    margin: 10px;
+   
+}
+.cloud {
+    margin-top: 80px;
+}
+.web {
+    width: 400px;
+    
+}
+h2 {
+    font-size: 20px;
+    width: 240px;
+    
+    text-align: left;
+}
+p {
+   text-align: left;
+    width: 400px;
+   
+}
+.main {
+    width: 400px;
+    
+}
+.mobile {
+    width: 870px;
+    
+}
+.im {
+    position: relative;
+    right: -375px;
+    top: -300px;
+    width: 480px;
+}
+.Presets {
+    width: 25px;
+    height: 25px;
+    position: relative;
+    left: -84px;
+    bottom: -10px;
+}
+.icon {
+    display: flex;
+    position: relative;
+    top: -250px;
+}
+.lorem {
+    width: 300px;
+}
+
+.diagramma {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    left: -85px;
+    bottom: -10px;
+}
+button {
+    border: none;
+    width: 200px;
+    margin-left: 15px;
+    background-color: white;
+}
+.network {
+    width: 24px;
+    height: 24px;
+    position: relative;
+    left: -80px;
+    bottom: -10px;
+}
+.lorem {
+    width: 190px;
+}
+button:hover {
+    border: 1px solid grey;
+}
+.dash {
+    position: relative;
+    left: -80px;
+    bottom: -10px;
+}
